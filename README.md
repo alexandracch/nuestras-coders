@@ -9,7 +9,7 @@ En la siguiente página web, se hace práctica de conocimientos aprendidos sobre
 2.Box Model y Display  
 3.Tipografías, íconos y sprites    
 
-Con lo cual creamos una web con la información de las nuevas coders del la séptima promoción.
+Con lo cual creamos una web con la información de las nuevas coders de la séptima promoción.
 
  ***
 
