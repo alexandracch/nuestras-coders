@@ -9,6 +9,7 @@ hr {
   right: 0px;
   margin: 0px;
   bottom: 50px;
+  width: 110px;
 }
 
 ul {
@@ -78,6 +79,14 @@ img {
 }
 
 .araceli {
+  text-align: right;
+  padding-right: 15px;
+  /*outline: 1px solid green;*/
+  position:relative;
+  top: -55px;
+}
+
+.alexandra {
   text-align: right;
   padding-right: 15px;
   /*outline: 1px solid green;*/
