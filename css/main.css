@@ -1,0 +1,78 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  color: rgb(128,128,127);
+}
+
+hr {
+  display: block;
+  /*outline: 1px solid red;*/
+  right: 0px;
+  margin: 0px;
+  bottom: 50px;
+}
+
+ul {
+  outline: 1px solid blue;
+  list-style: non;
+  width: 750px;
+  height: 500px;
+  overflow: auto;
+
+}
+
+li {
+  outline: 1px solid red;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-align: right;
+  margin: 10px;
+  float: left;
+  /*padding: 15px;*/
+
+}
+
+a {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-decoration: none;
+  color: white;
+}
+
+.yelitza {
+  text-align: right;
+  padding-right: 15px;
+  outline: 1px solid green;
+  position:relative;
+  top: -55px;
+}
+.betsy {
+  text-align: right;
+  padding-right: 15px;
+  outline: 1px solid green;
+  position:relative;
+  top: 0px;
+
+}
+img {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
+
+.macri {
+  text-align: right;
+  padding-right: 15px;
+  outline: 1px solid green;
+  position:relative;
+  top: -55px;
+}
+
+.brenda {
+  text-align: right;
+  padding-right: 15px;
+  outline: 1px solid green;
+  position:relative;
+  top: -55px;
+}
